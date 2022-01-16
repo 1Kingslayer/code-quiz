@@ -1,4 +1,4 @@
-# Coding assesment quiz
+# Coding assessment quiz
 
 ## Purpose
 A website that ask multiple choice coding questions with a timer and a highscores page!
